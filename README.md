@@ -29,4 +29,4 @@ Now install all requirements
 
 ## 🔗 Links
 
-- [Deployment Link]()
+- [Deployment Link](https://deathz0ne-ineuron-restaurant-rating-predict-introduction-1r4v3w.streamlit.app/Prediction)
