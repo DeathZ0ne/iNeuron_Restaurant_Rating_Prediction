@@ -2,7 +2,7 @@
 
 **The main goal of this is to get insights on restaurants which people like visit and to identify the rating of the restaurant.**
 
-## 🛠 Skills
+## Skills
 
 Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git, Optuna, LightGBM
 
@@ -29,4 +29,4 @@ Now install all requirements
 
 ## 🔗 Links
 
-- [Deployment Link](https://deathz0ne-ineuron-restaurant-rating-predict-introduction-1r4v3w.streamlit.app/Prediction)
+- [Deployment Link](https://deathz0ne-ineuron-restaurant-rating-predict-introduction-1r4v3w.streamlit.app/)
