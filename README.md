@@ -17,7 +17,7 @@ Clone the project
 Change to project directory
 
 ```bash
-  cd End-to-End-Restaurant-Rating-Prediction
+  cd iNeuron_Restaurant_Rating_Prediction
 ```
 
 Now install all requirements
