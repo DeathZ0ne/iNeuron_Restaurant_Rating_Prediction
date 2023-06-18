@@ -1,4 +1,4 @@
-# iNeuron intership Project (Restaurant Rating Project)
+# iNeuron internship Project (Restaurant Rating Project)
 
 **The main goal of this is to get insights on restaurants which people like visit and to identify the rating of the restaurant.**
 
